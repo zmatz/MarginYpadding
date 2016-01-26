@@ -1,1 +1,8 @@
-/* Agrega aqui tu CSS */
+div { 
+	border: solid 2px darkorchid;
+	width: 210px;
+	height: 240px;
+	padding: 0px 10px 20px 10px ;
+}
+
+h4 { margin: 20px 0px 10px}
